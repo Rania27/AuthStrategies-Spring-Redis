@@ -1,0 +1,12 @@
+Dans ce projet, l'objectif etait de mettre en valeur l'utilisatation de redis en tant que serveur cache pour Spring.
+Il s'insere dans le cadre d'un projet universitaire nommé stratégies d'authentification dans les applications webFrontal.
+
+
+Pour la creation de la base de données, il faut installer Mysql Wrokbench 6.2 CE, y créer la base nommée bookstoreapi.
+Redis : il suffit de l'installer 
+https://github.com/MicrosoftArchive/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.zip
+Et le lancer.
+
+References :
+https://www.freetutorials.us/angular-2-complete-e-commerce-app-course-javaspringmysql/
+http://www.sedooe.com/2016/04/rest-authentication-using-spring-security-and-spring-session/
